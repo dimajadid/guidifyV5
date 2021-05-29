@@ -73,7 +73,7 @@
       }
     },
     "rating": {
-      "enabled": true
+      "enabled": false
     },
     "popup": {
       "_comment": "link= , appid, url",
@@ -88,9 +88,9 @@
         "duration": 5000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 4000
         }
       },
@@ -103,7 +103,7 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": true,
+            "enabled": false,
             "duration": 4000
           }
         }
@@ -111,8 +111,8 @@
       "item": {
         "type": "text, webview, richtext",
         "native_ad": false,
-        "banner_ad": true,
-        "interstitial_ad": true
+        "banner_ad": false,
+        "interstitial_ad": false
       }
     }
   },
