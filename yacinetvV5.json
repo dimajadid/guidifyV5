@@ -68,7 +68,7 @@
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
-        "enabled": true,
+        "enabled": false,
         "duration": 4000
       }
     },
@@ -124,19 +124,9 @@
         "description": "Test description 0"
       },
       {
-        "type": "webview",
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 0",
-        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=live"
-      },
-      {
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test title 1",
-        "description": "Test description 1",
-        "locker": {
-          "_comment": "type=rewarded_ad",
-          "type": "rewarded_ad"
-        }
+        "description": "Test description 1"
       },
       {
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
