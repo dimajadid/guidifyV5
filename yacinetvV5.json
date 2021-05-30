@@ -119,59 +119,57 @@
   "data": {
     "items": [
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 0",
-        "description": "Test description 0"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 1",
-        "description": "Test description 1"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 2",
-        "description": "Test description 2"
-      },
-      {
         "type": "native_ad"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 3",
-        "description": "Test description 3"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "state": "free",
-        "title": "Test title 4",
+        "image": "https://raw.githubusercontent.com/dimajadid/config/main/1.jpg",
+        "title": "OSN CHANNELS",
         "description": ""
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 5",
-        "description": "Test description 5"
+        "image": "https://raw.githubusercontent.com/dimajadid/config/main/2.jpg",
+        "title": "ARABIC CHANNELS",
+        "description": ""
+      },
+      {
+        "image": "https://raw.githubusercontent.com/dimajadid/config/main/3.jpg",
+        "title": "ELKASS CHANNELS",
+        "description": ""
       },
       {
         "type": "native_ad"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 6",
-        "description": "Test description 6"
+        "image": "https://raw.githubusercontent.com/dimajadid/config/main/4.jpg",
+        "title": "MBC CHANNELS",
+        "description": ""
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 7",
-        "description": "Test description 7"
+        "image": "https://raw.githubusercontent.com/dimajadid/config/main/5.jpg",
+        "state": "free",
+        "title": "FRANCH CHANNELS",
+        "description": ""
+      },
+      {
+        "image": "https://raw.githubusercontent.com/dimajadid/config/main/6.jpg",
+        "title": "KIDS CHANNELS",
+        "description": ""
       },
       {
         "type": "native_ad"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 8",
-        "description": "Test description 8"
+        "image": "https://raw.githubusercontent.com/dimajadid/config/main/7.jpg",
+        "title": "BIEN CHANNELS",
+        "description": ""
+      },
+      {
+        "image": "https://raw.githubusercontent.com/dimajadid/config/main/yACINETV.png",
+        "title": "TV Channels Tips",
+        "description": "Just like all other Free TV Streaming apps, Yacine TV does also provides a list of Channels from all Categories. Including Sports and Entertainment.Sports Channels: Bein News, Bein Sport 1 HD to Bein Sports 9 HD, Alkass Channels.Entertainment Channels: Arabic, OSN Channels, MBC Channels, French, Kids Entertainment channels,"
+      },
+      {
+        "type": "native_ad"
       }
     ]
   }
