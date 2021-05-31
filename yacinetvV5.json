@@ -10,22 +10,22 @@
       }
     },
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "mode_ads_banner": "admob",
       "mode_ads_interstitial": "admob",
       "mode_ads_native": "admob",
       "mode_ads_mediumrect": "admob",
       "mode_ads_rewarded": "admob",
       "admob": {
-        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_banner_id": "ca-app-pub-6482737949646986/3582913714",
         "admob_interstitial_id": [
-          "ca-app-pub-3940256099942544/1033173712",
-          "ca-app-pub-3940256099942544/1033173712",
-          "ca-app-pub-3940256099942544/1033173712"
+          "ca-app-pub-6482737949646986/7330587038",
+          "ca-app-pub-6482737949646986/5442790299",
+          "ca-app-pub-6482737949646986/2670939687"
         ],
-        "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-        "admob_mediumrect_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+        "admob_native_id": "ca-app-pub-6482737949646986/9346661693",
+        "admob_mediumrect_id": "",
+        "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
       "facebook": {
@@ -68,7 +68,7 @@
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
-        "enabled": false,
+        "enabled": true,
         "duration": 4000
       }
     },
@@ -88,9 +88,9 @@
         "duration": 5000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 4000
         }
       },
@@ -103,16 +103,16 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": false,
-            "duration": 4000
+            "enabled": true,
+            "duration": 5000
           }
         }
       },
       "item": {
         "type": "text, webview, richtext",
-        "native_ad": false,
-        "banner_ad": false,
-        "interstitial_ad": false
+        "native_ad": true,
+        "banner_ad": true,
+        "interstitial_ad": true
       }
     }
   },
