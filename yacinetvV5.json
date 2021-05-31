@@ -122,10 +122,9 @@
         "type": "native_ad"
       },
       {
-        "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/config/main/yACINETV.png",
         "title": "Yacine TV Guide",
-        "url": "https://www.yacineapp.tv"
+        "description": ""
       },
       {
         "image": "https://raw.githubusercontent.com/dimajadid/config/main/1.jpg",
