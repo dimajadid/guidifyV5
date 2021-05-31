@@ -125,7 +125,7 @@
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/config/main/yACINETV.png",
         "title": "Yacine TV Guide",
-        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=live"
+        "url": "https://www.yacineapp.tv"
       },
       {
         "image": "https://raw.githubusercontent.com/dimajadid/config/main/1.jpg",
