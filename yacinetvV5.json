@@ -88,9 +88,9 @@
         "duration": 5000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 4000
         }
       },
@@ -112,7 +112,7 @@
         "type": "text, webview, richtext",
         "native_ad": true,
         "banner_ad": true,
-        "interstitial_ad": true
+        "interstitial_ad": false
       }
     }
   },
