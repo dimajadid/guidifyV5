@@ -122,6 +122,13 @@
         "type": "native_ad"
       },
       {
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/config/main/yACINETV.png",
+        "title": "Yacine TV Guide",
+        "description": "Just like all other Free TV Streaming apps, Yacine TV does also provides a list of Channels from all Categories. Including Sports and Entertainment.Sports Channels: Bein News, Bein Sport 1 HD to Bein Sports 9 HD, Alkass Channels.Entertainment Channels: Arabic, OSN Channels, MBC Channels, French, Kids Entertainment channels,"
+        "url": "https://www.yacineapp.tv"
+      },
+      {
         "image": "https://raw.githubusercontent.com/dimajadid/config/main/1.jpg",
         "title": "OSN CHANNELS",
         "description": ""
@@ -162,11 +169,6 @@
         "image": "https://raw.githubusercontent.com/dimajadid/config/main/7.jpg",
         "title": "BIEN CHANNELS",
         "description": ""
-      },
-      {
-        "image": "https://raw.githubusercontent.com/dimajadid/config/main/yACINETV.png",
-        "title": "TV Channels Tips",
-        "description": "Just like all other Free TV Streaming apps, Yacine TV does also provides a list of Channels from all Categories. Including Sports and Entertainment.Sports Channels: Bein News, Bein Sport 1 HD to Bein Sports 9 HD, Alkass Channels.Entertainment Channels: Arabic, OSN Channels, MBC Channels, French, Kids Entertainment channels,"
       },
       {
         "type": "native_ad"
