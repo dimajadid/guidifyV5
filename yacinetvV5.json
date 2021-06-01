@@ -122,8 +122,8 @@
         "type": "native_ad"
       },
       {
-        "image": "https://raw.githubusercontent.com/dimajadid/config/main/1.jpg",
-        "title": "OSN CHANNELS",
+        "image": "https://raw.githubusercontent.com/dimajadid/config/main/7.jpg",
+        "title": "BEIN CHANNELS",
         "description": "",
           "locker": {
           "_comment": "type=rewarded_ad",
@@ -160,11 +160,8 @@
         "description": ""
       },
       {
-        "type": "native_ad"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/dimajadid/config/main/7.jpg",
-        "title": "BIEN CHANNELS",
+        "image": "https://raw.githubusercontent.com/dimajadid/config/main/1.jpg",
+        "title": "OSN CHANNELS",
         "description": "",
           "locker": {
           "_comment": "type=rewarded_ad",
