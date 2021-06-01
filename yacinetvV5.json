@@ -24,8 +24,8 @@
           "ca-app-pub-6482737949646986/2670939687"
         ],
         "admob_native_id": "ca-app-pub-6482737949646986/9346661693",
-        "admob_mediumrect_id": "",
-        "admob_rewarded_id": "",
+        "admob_mediumrect_id": "ca-app-pub-6482737949646986/6795949158",
+        "admob_rewarded_id": "ca-app-pub-6482737949646986/1266428484",
         "admob_unit_id": ""
       },
       "facebook": {
@@ -110,7 +110,7 @@
       },
       "item": {
         "type": "text, webview, richtext",
-        "native_ad": true,
+        "native_ad": false,
         "banner_ad": true,
         "interstitial_ad": false
       }
@@ -161,12 +161,20 @@
       {
         "image": "https://raw.githubusercontent.com/dimajadid/config/main/7.jpg",
         "title": "BIEN CHANNELS",
-        "description": ""
+        "description": "",
+          "locker": {
+          "_comment": "type=rewarded_ad",
+          "type": "rewarded_ad"
+        }
       },
      {
         "image": "https://raw.githubusercontent.com/dimajadid/config/main/yACINETV.png",
         "title": "Yacine TV About",
-        "description": "Just like all other Free TV Streaming apps, Yacine TV does also provides a list of Channels from all Categories. Including Sports and Entertainment.Sports Channels: Bein News, Bein Sport 1 HD to Bein Sports 9 HD, Alkass Channels.Entertainment Channels: Arabic, OSN Channels, MBC Channels, French, Kids Entertainment channels."
+        "description": "Just like all other Free TV Streaming apps, Yacine TV does also provides a list of Channels from all Categories. Including Sports and Entertainment.Sports Channels: Bein News, Bein Sport 1 HD to Bein Sports 9 HD, Alkass Channels.Entertainment Channels: Arabic, OSN Channels, MBC Channels, French, Kids Entertainment channels.",
+          "locker": {
+          "_comment": "type=rewarded_ad",
+          "type": "rewarded_ad"
+        }
       },
       {
         "type": "native_ad"
