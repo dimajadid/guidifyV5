@@ -124,7 +124,11 @@
       {
         "image": "https://raw.githubusercontent.com/dimajadid/config/main/1.jpg",
         "title": "OSN CHANNELS",
-        "description": ""
+        "description": "",
+          "locker": {
+          "_comment": "type=rewarded_ad",
+          "type": "rewarded_ad"
+        }
       },
       {
         "image": "https://raw.githubusercontent.com/dimajadid/config/main/2.jpg",
